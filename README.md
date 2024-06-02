@@ -9,3 +9,7 @@ I will learn how to build out the basics of an html and use the following skills
 4. Lists- ul, li, ol
 5. Links and Images- img, src, Absolute links and relative links.
 6. Clear and correct commits
+
+This should be it. 
+
+Thank you for the read.
